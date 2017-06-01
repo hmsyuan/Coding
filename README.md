@@ -1,1 +1,1 @@
-# HowToGit-
+# How To Git
